@@ -1,0 +1,21 @@
+Locales['cs'] = {
+    ['Robert'] = 'Robert', -- if you want to change Robert's name
+    ['buyer'] = 'Kupec',
+    ['talk_npc'] = 'Hovoriť s Robertom',
+    ['title_carthief'] = 'Car Thief',
+    ['steal_car_title'] = 'Steal a car',
+    ['start_car_title'] = 'Zahájení práce',
+    ['talk_label'] = 'Mluvíte s Robertem',
+    ['find_car']=  'Najdi ',
+    ['find_car_info']=  ' pak získáte více informací!',
+    ['delivery1']=  'Dobrá práce, našel jsi ',
+    ['delivery2']=  '. Na GPS jsem vyznačil, kam máš jet.',
+    ['GPS']=  'Doruc ',
+    ['good_job']=  'Výborně! Vozidlo jste dopravili na správné místo',
+    ['talk_buyer']=  'Mluvt s kupujícím',
+    ['wrong_car1']=  'Špatné vozidlo! Najdi ',
+    ['wrong_car2']=  ' k pokračování mise.',
+    ['need_in_car'] = 'Musíte sedět v autě!',
+    ['talk2_buyer'] = 'Hovoříte s kupujícím',
+    ['got_paid'] = 'Dostali jste zaplaceno ',
+}

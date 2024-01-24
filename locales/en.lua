@@ -1,0 +1,21 @@
+Locales['en'] = {
+    ['Robert'] = 'Robert', -- if you want to change Robert's name
+    ['buyer'] = 'Buyer',
+    ['talk_npc'] = 'Talking with Robert',
+    ['title_carthief'] = 'Car Thief',
+    ['steal_car_title'] = 'Steal a car',
+    ['start_car_title'] = 'Starting the work',
+    ['talk_label'] = "You're talking to Robert",
+    ['find_car']=  'Find a ', -- space needed
+    ['find_car_info']=  " then you'll get more info!",
+    ['delivery1']= 'Good job, you found ',
+    ['delivery2']= ". I've marked on the GPS where to go.",
+    ['GPS']=  'Deliver ',
+    ['good_job']=  'Well done! You got the vehicle to the right place.',
+    ['talk_buyer']=  'Talk to the buyer',
+    ['wrong_car1']= 'Wrong vehicle! Find ',
+    ['wrong_car2']= ' to continue the mission.',
+    ['need_in_car'] = 'You have to sit in the car!',
+    ['talk2_buyer'] = 'You are talking to a buyer',
+    ['got_paid'] = 'You got paid ',
+}
